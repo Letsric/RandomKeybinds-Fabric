@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "randomkeybinds",
+  "version": "${version}",
+  "name": "RandomKeybinds",
+  "description": "Eine Mod, die die Keybindings in Minecraft zufällig generiert, als Challange für Hannervc",
+  "authors": [
+    "Letsric"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/RandomKeybinds/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "letsric.randomkeybinds.client.RandomKeybindsClient"
+    ],
+    "main": [
+      "letsric.randomkeybinds.RandomKeybinds"
+    ]
+  },
+  "mixins": [
+    "RandomKeybinds.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
