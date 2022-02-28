@@ -1,5 +1,6 @@
 # RandomKeybinds
-Eine Mod, die die Keybindings in Minecraft zufällig generiert, als Challange für Hannervc
+Eine Mod, die die Keybindings in Minecraft zufällig generiert, als Challange für Hannervc \
+__**WICHTIG:**__ Diese Mod verwendet das Numpad! Wenn du kein Numpad hast, Musst du vermutlich manche Tasten manuell neu zuweisen!
 
 ---
 
