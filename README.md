@@ -5,7 +5,7 @@ __**WICHTIG:**__ Diese Mod verwendet das Numpad! Wenn du kein Numpad hast, Musst
 ---
 
 ## Installation:
-1. Istalliere [Fabric](https://fabricmc.net/use) für die Minecraft Version 1.18.1
+1. Istalliere [Fabric](https://fabricmc.net/use) für die Minecraft Version 1.18.2
 2. Lade diese Mod unter [Releases](https://github.com/Letsric/RandomKeybinds/releases) herunter
 3. Kopiere diese Mod zusammen mit [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all) in deinen .minecraft -> mods Ordner
 4. Starte Minecraft mit Fabric 1.18.1
